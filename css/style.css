@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f0e6;
+    color: #493b2b;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #3f5943;
+}
+
+.table {
+    border-color: #9b9a83;
+}
+
+.table thead th {
+    background-color: #3f5943;
+    color: white;
+}
+
+img {
+    border: 1px solid #9b9a83;
+}
